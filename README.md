@@ -2,10 +2,12 @@
 
 ## What's in progress..
 
+
 ### 1. doit
 - Example code in a book called Jump to Python
   - 박응용 지음, 이지스퍼블리싱
 
+<br>
 
 ## What to do in the future..
 - Name of book
