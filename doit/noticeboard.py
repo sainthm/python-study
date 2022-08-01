@@ -1,7 +1,10 @@
 # noticeboard.py
 
 def getTotalPage(m,n ):
-    return m // n + 1
+    if m % n == 0:
+        return m // n
+    else:
+        return m // n + 1
 
 print(getTotalPage(5, 10))
 print(getTotalPage(15, 10))
