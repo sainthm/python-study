@@ -13,6 +13,11 @@ if option == '-a':
     f.write(memo)
     f.write('\n')
     f.close()
+elif option == '-v':
+    f = open('memo.txt')
+    memo = f.read()
+    f.close()
+    print(memo)
 
 # print(option)
 # print(memo)
