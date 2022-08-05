@@ -8,7 +8,7 @@
   - 박응용 지음, 이지스퍼블리싱
 
 ### 2. 338
-- Python to complete with 338 examples
+- Python to complete with 338 examples (Introduction to python)
   - 황재호 지음, 인포앤북
 
 <br>
@@ -19,5 +19,3 @@
     - 조인석 지음, 터닝포인트 
   - Everyone's Python
     - 이승찬 지음, 길벗
-  - 338 Python to complete with examples (Introduction to python)
-    - 황재호 지음, 인포앤북
