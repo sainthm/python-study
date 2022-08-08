@@ -1,3 +1,4 @@
+# Find the perimeter and area of the circle!
 # 원의 둘레와 면적을 구하라!
 
 # 단, 결과는 소수 둘째 자리까지 표시해야 함.
