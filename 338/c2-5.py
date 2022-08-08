@@ -3,9 +3,9 @@
 
 # 결제 금액 : 책값 - (책값 x (할인율/100)) + 배송료
 
-price = int(input("책 값은? "))
-discount = int(input("할인율은? "))
-delivery = int(input("배송료는? "))
+price = int(input("책 값은? "))                         # 책 값 입력받아 정수 변환
+discount = int(input("할인율은? "))                     # 할인율(%) 입력받아 정수 변환
+delivery = int(input("배송료는? "))                     # 배송료 입력받아 정수 변환
 
 pay = price - (price * (discount / 100)) + delivery     # 결제 금액 계산하기
 
