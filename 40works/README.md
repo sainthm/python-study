@@ -27,6 +27,7 @@
 
 ## Reader Support Center:
 - 책 소스 및 프로젝트 파일 링크: <a href="https://cafe.naver.com/answerbook/4080" target="_blank">"<만들면서 배우는 파이썬과 40개 작품들> 책 소스입니다."</a>
+  - 해당 링크 내, **파이썬과 40개의 작품들_코드_20220602.zip** 파일
 
 <br>
 
