@@ -12,5 +12,6 @@
 - 반복되는 작업 등을 파이썬의 도움을 받아 자동화하여 **정시에 퇴근**하는 것을 목표로 합니다. :)
 
 ## Reader Support Center:
-- 책 소스 및 프로젝트 파일 링크: https://cafe.naver.com/answerbook/4080
-- 
+- 책 소스 및 프로젝트 파일 링크: <a href="https://cafe.naver.com/answerbook/4080" target="_blank">"<만들면서 배우는 파이썬과 40개 작품들> 책 소스입니다."</a>
+
+
