@@ -11,6 +11,10 @@
 - Python to complete with 338 examples (Introduction to python)
   - 황재호 지음, 인포앤북
 
+### 3. 40 works
+- 만들면서 배우는 파이썬과 40개의 작품들
+  - 장문철 지음, 앤써북
+
 <br>
 
 ## What to do in the future..
