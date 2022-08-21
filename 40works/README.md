@@ -70,6 +70,10 @@
 - **vscode-icons**: 파일 아이콘 변경 툴
 - **indent-rainbow**: 코드내에서 칸별로 색상을 표시
 
+<br>
+
+##### 북마크
+page 34 
 
 <br>
 
