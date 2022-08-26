@@ -1,3 +1,71 @@
+# a = None
+# b = 1
+# c = ""
+# d = 0
+# e = bool(0)
+
+# print(type(a))
+# print(type(b))
+# print(type(c))
+# print(type(d))
+# print(type(e))
+
+# <class 'NoneType'>
+# <class 'int'>
+# <class 'str'>
+# <class 'int'>
+# <class 'bool'>
+
+
+# print(bool(a))
+# print(bool(b))
+# print(bool(c))
+# print(bool(d))
+# print(bool(e))
+
+
+# False
+# True
+# False
+# False
+# False
+
+# 4번
+
+# age = 0
+# a = 1
+# as = 'hello'
+# _age = 'world'
+# 1age = 3.14
+
+# x = '' 
+# for line in iter(input, x):
+#     print(line.replace('q', 'e'))
+#     # pass
+
+# >출력 결과물
+# Hqllo
+# Hello
+# querty
+# euerty
+# hqllo my namq is saqrym
+# hello my name is saerym
+
+# a = input().split('\n')
+
+# a= """Hqllo
+# querty
+# hqllo my namq is saqrym"""
+
+# a= """Hqllo
+# querty
+# hqllo my namq is saqrym"""
+
+# print(a.replace('q', 'e'))
+
+
+# print(line.replace('q', 'e'))
+
 ################################################################################
 
 # 3번 : 대문자만 지나가세요
@@ -102,16 +170,16 @@
 
 
 
-def changer(a):
-    tt= ''
-    for i in range(0,len(a)) :
-        if a[i].isupper() == True:
-            tt += a[i].lower()
-        elif a[i].isupper() == False:
-            tt += a[i].upper()
-        else:
-            pass
-    print(tt)
+# def changer(a):
+#     tt= ''
+#     for i in range(0,len(a)) :
+#         if a[i].isupper() == True:
+#             tt += a[i].lower()
+#         elif a[i].isupper() == False:
+#             tt += a[i].upper()
+#         else:
+#             pass
+#     print(tt)
         
-raw = input()
-changer(raw)
+# raw = input()
+# changer(raw)
