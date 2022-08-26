@@ -66,6 +66,42 @@
 
 # print(line.replace('q', 'e'))
 
+
+
+################################################################################
+# 문자열 2번 문제
+# a = input()
+# print(a.upper())
+
+# x = '' 
+# for line in iter(input, x):
+#     print(line.upper())
+
+
+# mary
+# MARY
+# maRy
+# MARY
+# mary!
+# MARY!
+# ma ry
+# MA RY
+
+
+# a = """mary
+# maRy
+# mary!
+# ma ry"""
+
+# print(a.upper())
+
+# MARY
+# MARY
+# MARY!
+# MA RY
+
+# print(a.upper())
+
 ################################################################################
 
 # 3번 : 대문자만 지나가세요
