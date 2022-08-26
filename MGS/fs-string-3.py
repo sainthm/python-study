@@ -1,47 +1,68 @@
-a = 'HelloWorld!'
+# a = 'HelloWorld!'
 
-b = 'I Love Futureskill'
-
-
-
-i = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-
-j = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+# b = 'I Love Futureskill'
 
 
+# x = ''
+# for line in iter(input, x):
+#     pass
 
-results_a = ''
 
-results_b = ''
+# i = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+# j = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
 
 
 
-for x in i:
+# results_a = ''
 
-if a[x].isupper() == True:
+# results_b = ''
 
-results_a += a[x]
+# x = ''
+# results = ''
 
-else:
+# for line in iter(input, x):
+#     for idx in list(range(0, len(line))):
+#         if line[idx].isupper() == True:
+#             results += line[idx]
+#         else:
+#             pass
 
-pass
+# print(results)
+
+# for line in iter(input, x):
+
+x = ''
+results = ''
+
+line = input()
+
+for idx in list(range(0, len(line))):
+    if line[idx].isupper() == True:
+        results += line[idx]
+    else:
+        pass
+
+print(results)
+
+
+# for line in iter(input, x):
+
+# print(results)
 
 
 
-print(results_a)
+# for idx in list(range(0, len(x))):
+#     if x[idx].isupper() == True:
+#         results += x[idx]
+#     else:
+#         pass
 
 
+# for x in j:
+#     if b[x].isupper() == True:
+#         results_b += b[x]
+#     else:
+#         pass
 
-for x in j:
-
-if b[x].isupper() == True:
-
-results_b += b[x]
-
-else:
-
-pass
-
-
-
-print(results_b)
+# print(results_b)
