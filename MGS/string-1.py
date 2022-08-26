@@ -188,9 +188,9 @@
 
 
 
-x = ''
-for line in iter(input, x):
-    print(line)
+# x = ''
+# for line in iter(input, x):
+#     print(line)
 
 ################################################################################################
 
@@ -211,6 +211,20 @@ for line in iter(input, x):
 
 # print(a[1].isupper())
 
+def changer(a):
+    text= ''
+    for i in range(0,len(a)):
+        if a[i].isupper() == True:
+            text += a[i].lower()
+        else: 
+            text += a[i].upper()
+    print(text)
+        
+raw = input()
+changer(raw)
+
+# AAABBBcccddd
+# aaabbbCCCDDD
 
 
 # def changer(a):
