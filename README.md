@@ -15,6 +15,10 @@
 - 만들면서 배우는 파이썬과 40개의 작품들
   - 장문철 지음, 앤써북
 
+### 4. codingapple
+- [코딩애플](https://codingapple.com/)
+  - 강좌명: 빠르게 정리하는 파이썬 기초 문법
+
 <br>
 
 ## What to do in the future..
